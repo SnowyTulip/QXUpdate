@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.qx.ide.feature_1.0.27.202409021602.jar" id="com.qx.ide.feature" version="1.0.27.202409021602">
+      <category name="QX-IDE1.6.9"/>
+   </feature>
+   <category-def name="QX-IDE1.6.9" label="QX-IDE1.6.9"/>
+</site>
